@@ -1,10 +1,16 @@
-.logotipo{
-    width: 10px;
-    height: 10px;
+.red{
+    background-color: brown;
 }
 
-.espaciosForm{
-    padding-top: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
+.color{
+    color: dodgerblue;
+}
+
+.borde{
+    border-radius: 100%;
+    border: none;
+}
+
+.foter{
+    margin-top: 220px !important;
 }
